@@ -166,3 +166,8 @@ mydb.sqlite
 
 # Test artifacts
 test_artifact.txt
+
+# local MLflow runs and generated data artifacts
+mlruns/
+users_churn.csv
+columns_sol.txt
