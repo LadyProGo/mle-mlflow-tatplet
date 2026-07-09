@@ -8,10 +8,10 @@ catboost==1.2.2
 scipy==1.11.3
 optuna==3.4.0
 ipywidgets==8.1.1
-seaborn==0.13.0
 autofeat==2.1.2
 mlxtend==0.23.0
 plotly==5.20.0
 kaleido==0.2.1
 boto3==1.34.77
 psycopg2-binary
+seaborn==0.13.2
