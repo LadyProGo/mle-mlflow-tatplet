@@ -1,0 +1,11 @@
+feature,selection_method
+paperless_billing_Yes,sfs
+payment_method_Electronic check,sfs
+payment_method_Mailed check,sfs
+internet_service_Fiber optic,sfs
+internet_service_missing,sfs
+online_security_Yes,sfs
+online_security_missing,sfs
+online_backup_Yes,sfs
+online_backup_missing,sfs
+device_protection_Yes,sfs

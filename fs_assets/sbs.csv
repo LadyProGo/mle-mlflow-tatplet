@@ -1,0 +1,11 @@
+feature,selection_method
+paperless_billing_Yes,sbs
+payment_method_Credit card (automatic),sbs
+payment_method_Electronic check,sbs
+payment_method_Mailed check,sbs
+internet_service_Fiber optic,sbs
+internet_service_missing,sbs
+online_security_Yes,sbs
+online_security_missing,sbs
+online_backup_Yes,sbs
+online_backup_missing,sbs
