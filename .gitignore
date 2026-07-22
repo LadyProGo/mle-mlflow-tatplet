@@ -171,3 +171,4 @@ test_artifact.txt
 mlruns/
 users_churn.csv
 columns_sol.txt
+catboost_info/
