@@ -172,3 +172,5 @@ mlruns/
 users_churn.csv
 columns_sol.txt
 catboost_info/
+local.study.db
+fix_bayesian_artifact.py
